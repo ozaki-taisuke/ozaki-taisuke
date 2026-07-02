@@ -11,7 +11,7 @@ I design engineer training programs as *experiences* — with storytelling and l
 - 🤖 生成AIを組み込んだアプリ・ロボットアプリの開発
 - ✍️ 戯曲・脚本・エッセイの執筆 → [note](https://note.com/taisuke_ozaki)
 
-## お仕事の3本柱 / Three pillars
+## 3本柱 / Three pillars
 
 | 柱 | 内容 |
 |:---|:---|
